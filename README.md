@@ -29,7 +29,7 @@ The system covers the full database development process, including:
 - ER Modeling
 
   Project Report
-📄 [View Full Report](CAFE MANAGMENT system.pdf)
+📄 [View Full Report](CAFE_MANAGMENT_system.pdf)
 
 ER Diagram
 ![ERD](ERD.png)
