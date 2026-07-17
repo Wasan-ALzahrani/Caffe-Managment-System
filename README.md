@@ -48,6 +48,6 @@ Create Tables
 
 Procedure Output
 ![Procedure Output](ProcedureOutput.png)
-- Normalization
 
-This project was completed as a university team project for the **Database Systems** course.
+
+This project was completed as a university team project for the *Database Systems* course.
